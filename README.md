@@ -16,7 +16,7 @@ Dette er et enkelt kalkulatorprosjekt skrevet i Python ved hjelp av Tkinter-bibl
 
 ## Skjermbilde
 
-- TBD
+- ![screenshot of a really simple calculator GUI made using the tkinter library.](/layout.png)
 
 ## Lisens
 
