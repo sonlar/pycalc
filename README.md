@@ -1,6 +1,6 @@
 # pycalc
 
-Dette er et enkelt kalkulatorprosjekt skrevet i Python ved hjelp av Tkinter-biblioteket. Prosjektet har en grunnleggende kalkulatorgrensesnitt med de vanlige matematiske operatorene for å utføre enkle beregninger.
+Dette er et enkelt kalkulatorprosjekt skrevet i Python ved hjelp av Tkinter-biblioteket. Prosjektet har en grunnleggende kalkulatorgrensesnitt med de vanlige matematiske operatorene for å utføre enkle beregninger. Per nå kan den bare ta inn to tall og resultatet blir tilbakestilt etter visning.
 
 ## Funksjoner
 
